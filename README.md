@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @ManuelBelmonte
+- 👀 I’m interested in learn new technology and to land my first job in tech :D
+- 🌱 I’m currently learning programming languajes like, python , c and sql to become a backend developer
+- 💞️ I’m looking to collaborate with a company
+- 📫 How to reach me 
+- linkedin: https://www.linkedin.com/in/mabm98/
+- email: manuel.martinez009@hotmail.com
+- phone: +52 3325232157
