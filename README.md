@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManuelBelmonte
 - 👀 I’m interested in learn new technology and to land my first job in tech :D
-- 🌱 I’m currently learning programming languajes like, python , c and sql to become a backend developer
+- 🌱 I’m currently learning programming languages like, python , java and sql to become a backend developer
 - 💞️ I’m looking to collaborate with a company
 - 📫 How to reach me 
 - linkedin: https://www.linkedin.com/in/mabm98/
